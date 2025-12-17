@@ -37,7 +37,7 @@ A clustering-based project to segment customers into meaningful groups.
 
 ---
 
-### 3️. Flight Delay Prediction (Golden Project)
+### 3️. Flight Delay Prediction 
 A predictive analytics project to determine whether a flight will be delayed.
 
 **Highlights:**
